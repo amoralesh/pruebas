@@ -1,0 +1,38 @@
+[
+    {
+        "partido":"Independiente",
+        "abreviatura":"INDEPENDIENTE",
+        "numeroCurules":40,
+        "colorPartido":"#30322E"
+    },
+    {
+        "partido":"Movimiento Regeneración Nacional",
+        "abreviatura":"MORENA",
+        "numeroCurules":25,
+        "colorPartido":"#A931F7"
+    },
+    {
+        "partido":"Partido Acción Nacional",
+        "abreviatura":"PAN",
+        "numeroCurules":60,
+        "colorPartido":"#26E4F7"
+    },
+    {
+        "partido":" Movimiento Ciudadano",
+        "abreviatura":"MC",
+        "numeroCurules":90,
+        "colorPartido":"#F77114"
+    },
+    {
+        "partido":"Partido de la Revolución Democrática",
+        "abreviatura":"PRD",
+        "numeroCurules":20,
+        "colorPartido":"#F2F602"
+    },
+    {
+        "partido":"Partido Revolucionario Institucional",
+        "abreviatura":"PRI",
+        "numeroCurules":34,
+        "colorPartido":"#FE0E03"
+    }
+]

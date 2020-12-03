@@ -1,0 +1,26 @@
+[
+    {
+        "abreviatura":"INDEPENDIENTE",
+        "porcentaje":90
+    },
+    {
+        "abreviatura":"MORENA",
+        "porcentaje":60
+    },
+    {
+        "abreviatura":"PAN",
+        "porcentaje":30
+    },
+    {
+        "abreviatura":"MC",
+        "porcentaje":80
+    },
+    {
+        "abreviatura":"PRD",
+        "porcentaje":30
+    },
+    {
+        "abreviatura":"PRI",
+        "porcentaje":80
+    }
+]

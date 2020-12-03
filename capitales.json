@@ -1,0 +1,38 @@
+[
+    {
+        "partido":"Independiente",
+        "abreviatura":"INDEPENDIENTE",
+        "porcentaje":90,
+        "colorPartido":"#30322E"
+    },
+    {
+        "partido":"Movimiento Regeneración Nacional",
+        "abreviatura":"MORENA",
+        "porcentaje":60,
+        "colorPartido":"#A931F7"
+    },
+    {
+        "partido":"Partido Acción Nacional",
+        "abreviatura":"PAN",
+        "porcentaje":30,
+        "colorPartido":"#26E4F7"
+    },
+    {
+        "partido":" Movimiento Ciudadano",
+        "abreviatura":"MC",
+        "porcentaje":80,
+        "colorPartido":"#F77114"
+    },
+    {
+        "partido":"Partido de la Revolución Democrática",
+        "abreviatura":"PRD",
+        "porcentaje":30,
+        "colorPartido":"#F2F602"
+    },
+    {
+        "partido":"Partido Revolucionario Institucional",
+        "abreviatura":"PRI",
+        "porcentaje":80,
+        "colorPartido":"#FE0E03"
+    }
+]

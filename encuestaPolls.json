@@ -1,0 +1,32 @@
+[
+    {
+        "candidato":"Jaime Rodríguez Calderón",
+        "porcentaje":[34.8, 43.0, 51.2, 41.4, 64.9, 72.4],
+        "colorPartido":"#30322E"
+    },
+    {
+        "candidato":"Andrés Manuel López Obrador",
+        "porcentaje": [69.6, 63.7, 63.9, 43.7, 66.0, 61.7],
+        "colorPartido":"#A931F7"
+    },
+    {
+        "candidato":"Felipe Calderón Hinojosa",
+        "porcentaje":[20.2, 30.7, 36.8, 30.9, 39.6, 47.1],
+        "colorPartido":"#26E4F7"
+    },
+    {
+        "candidato":"Josefina Vázquez Mota",
+        "porcentaje":[6.1, 6.8, 5.3, 27.5, 6.0, 5.5],
+        "colorPartido":"#F77114"
+    },
+    {
+        "candidato":"Cuauhtémoc Cárdenas Solórzano",
+        "porcentaje":[42.6, 51.5, 54.2, 45.8, 20.2, 15.4],
+        "colorPartido":"#F2F602"
+    },
+    {
+        "candidato":"Carlos Salinas de Gortari",
+        "porcentaje":[56.1, 55.8, 7.3, 17.5, 36.0, 6.5],
+        "colorPartido":"#FE0E03"
+    }
+]
